@@ -27,8 +27,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alefkaueS&theme=graywhite&utcOffset=8" style="max-height: 180px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefkaueS&theme=graywhite" style="max-height: 180px;" />
 </div>
 
 <div align="center" style="display: inline_block; flex-wrap: wrap; justify-content: center; gap: 10px;"><br>
@@ -85,9 +83,8 @@
 <br>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://i.imgur.com/dtRl24g.gif" width="300" />
+  <img src="./assets/developer.gif" width="300" />
 </div>
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=120&section=footer"/>
