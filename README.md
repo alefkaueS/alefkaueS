@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <b>`Dark Knight Dev`</b>
+  <b>`Full-Stack Developer`</b>
   <samp>
       <br>
       Hi there! I'm <b>Alef Santos</b>
@@ -11,13 +11,13 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=24&center=true&lines=From+Brazil;Learning+Web+Development;Full-Stack+Dev;Welcome+to+my+Batcave!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=24&center=true&lines=From+Brazil;Learning+Web+Development;Passionate+about+Tech;Welcome+to+my+Profile!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/alef_santos-🦇-2b2b2b" />
+  <img src="https://img.shields.io/badge/Alef_Santos-💼-2b2b2b" />
 </div>
       
 <br>
@@ -29,7 +29,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
 </div>
 
-<div align="center" style="display: inline_block; flex-wrap: wrap; justify-content: center; gap: 10px;"><br>
+<br>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -61,18 +63,14 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:seuemail@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2b2b2b?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/seuusuario/)
-  [![Discord](https://img.shields.io/badge/Discord-2b2b2b?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/seulink)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/seulinkedin/)
+  [![Gmail](https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alefkauesantosnunes@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2b2b2b?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/ak.sntos/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alef-santos-k/)
 </div>
-
 
 <br>
 
 </details>
-
-##
 
 <br>
 
@@ -86,5 +84,6 @@
   <img src="./assets/developer.gif" width="300" />
 </div>
 
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=120&section=footer"/>
