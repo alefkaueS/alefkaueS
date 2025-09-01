@@ -66,6 +66,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alefkauesantosnunes@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2b2b2b?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/ak.sntos/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alef-santos-k/)
+  [![GitHub Personal](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alefkaue)
 </div>
 
 <br>
