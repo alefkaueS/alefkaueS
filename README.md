@@ -83,7 +83,7 @@
 <br>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="./assets/Nft Coding GIF.gif" width="300" />
+  <img src="./assets/developer.gif" width="300" />
 </div>
 
 
