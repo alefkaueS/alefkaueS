@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2b2b2b"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff0000"/>
 
 <br>
 
@@ -11,22 +11,22 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=24&center=true&lines=From+Brazil;Learning+Web+Development;Passionate+about+Tech;Welcome+to+my+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=24&center=true&lines=From+Brazil;Learning+Web+Development;Passionate+about+Tech;Welcome+to+my+Profile!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Alef_Santos-💼-2b2b2b" />
+  <img src="https://img.shields.io/badge/Alef_Santos-💼-FF0000" />
 </div>
       
 <br>
 <br>
       
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefkaueS&theme=graywhite" style="max-height: 180px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alefkaueS&theme=2077" style="max-height: 180px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alefkaueS&theme=2077" style="max-height: 180px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alefkaueS&theme=2077" style="max-height: 180px;" />
 </div>
 
 <br>
@@ -63,10 +63,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alefkauesantosnunes@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2b2b2b?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/ak.sntos/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alef-santos-k/)
-  [![GitHub Personal](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alefkaue)
+  [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alefkauesantosnunes@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/ak.sntos/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alef-santos-k/)
+  [![GitHub Personal](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alefkaue)
 </div>
 
 <br>
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FalefkaueS&s=30&c=FFFFFF&bg=2b2b2b&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FalefkaueS&s=30&c=FF0000&bg=000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
 <br>
@@ -87,4 +87,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
